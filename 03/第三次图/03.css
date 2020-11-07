@@ -1,0 +1,290 @@
+.body{
+    margin: 0;
+    padding: 0;
+}
+
+
+.first div1{
+    position: absolute;
+    left: 90px;
+    top: 5px;
+}
+
+.first div2{
+    font-size: 35px;
+    left: 130px;
+    top: 7px;
+    position: absolute;
+}
+
+.first div3{
+    top: 18px;
+    right: 310px;
+    font-size: 20px;
+    position: absolute;
+}
+
+.first div4{
+    position: absolute;
+    height: 40px;
+    width: 100px;
+    right: 200px;
+    top: 18px;
+}
+
+.first div5{
+    top: 19px;
+    right: 140px;
+    position: absolute;
+}
+
+
+
+.second{
+    position: absolute;
+    top: 80px;
+    background-color: rgb(46, 43, 43);
+    height: 550px;
+    width: 1500px;
+}
+
+.second div2{
+    position: absolute;
+    top: 50px;
+    font-size: 35px;
+    left: 400px;
+    color: white;
+}
+.second input[type="submit"]{
+    position: absolute;
+        top: 50px;
+        width: 180px;
+        height: 40px;
+        right: 350px;
+        border-radius: 5px;
+        color: white;
+        border: 1px solid #adadad;
+        background: rgb(32, 199, 250);
+        cursor: pointer;
+        letter-spacing: 1px;
+        margin-fifth: 40px;
+}
+.second div3{
+    position: relative;
+    top: 150px;
+    left: 350px;
+}
+
+
+
+
+.tri p1{
+    top: 680px;
+    left: 170px;
+    position: absolute;
+    font-size: 35px;
+}
+
+.tri p2{
+    top: 680px;
+    left: 600px;
+    position: absolute;
+    font-size: 35px;
+    color: black;
+}
+
+.tri div3{
+    left: 1020px;
+    top: 680px;
+    position: absolute;
+    font-size: 35px;
+}
+
+.tri div4{
+    left: 220px;
+    top: 750px;
+    position: absolute;
+}
+
+.tri div5{
+    left: 650px;
+    top: 750px;
+    position: absolute;
+}
+
+.tri div6{
+    left: 1090px;
+    top:750px;
+    position: absolute;
+}
+.tri p7{
+    position: absolute;
+    left: 123px;
+    top: 900px;
+}
+.tri p8{
+    position: relative;
+    left: 107px;
+    top: 911px;
+}
+.tri p9{
+    position: absolute;
+    left: 113px;
+    top: 940px;
+}
+.tri p10{
+    position: absolute;
+    left: 131px;
+    top: 960px;
+}
+
+.tri p11{
+    position: absolute;
+    left: 530px;
+    top: 900px;
+}
+.tri p12{
+    position: absolute;
+    left: 520px;
+    top: 920px;
+}
+.tri p13{
+    position: absolute;
+    left: 523px;
+    top: 940px;
+}
+.tri p14{
+    position: absolute;
+    left: 540px;
+    top: 960px;
+}
+
+.tri p15{
+    position: absolute;
+    left: 980px;
+    top: 900px;
+}
+.tri p16{
+    position: absolute;
+    left: 970px;
+    top: 920px;
+}
+.tri p17{
+    position: absolute;
+    left: 977px;
+    top: 940px;
+}
+.tri p18{
+    position: absolute;
+    left: 995px;
+    top: 960px;
+}
+
+
+
+
+
+.forth{
+    position: absolute;
+    top: 1000px;
+    height: 520px;
+    width: 1500px;
+    background-color:rgba(69, 70, 70, 0.4);
+}
+
+.forth div1{
+    position: absolute;
+    top: 10px;
+    left: 200px;
+    font-size: 35px;
+    color:rgb(136, 103, 12);
+}
+.forth div2{
+    position: absolute;
+    top: 60px;
+    left: 200px;
+}
+
+.forth div3{
+    top: 60px;
+    position: relative;
+    left: 450px;
+}
+.forth div4{
+    position: absolute;
+    top: 60px;
+    left: 700px;
+}
+.forth div5{
+    position: absolute;
+    top: 60px;
+    left: 950px;
+}
+.forth div6{
+    position: absolute;
+    top: 260px;
+    left: 200px;
+}
+.forth div7{
+    position: absolute;
+    top: 260px;
+    left: 450px;
+}
+.forth div8{
+    position: absolute;
+    top: 260px;
+    left: 700px;
+}
+.forth div9{
+    position: absolute;
+    top: 260px;
+    left: 950px;
+}
+
+
+
+.fifth{
+    background-color: thistle;
+}
+.fifth div1{
+    font-size: 35px;
+    position: absolute;
+    top: 1540px;
+    left: 180px;
+}
+.fifth div2{
+    position: absolute;
+    top: 1600px;
+    left: 200px;
+}
+.fifth div3{
+    font-size: 35px;
+    position: absolute;
+    top: 1590px;
+    left: 260px;
+}
+.fifth div4{
+    font-size: 35px;
+    position: absolute;
+    top: 1600px;
+    left: 450px;
+}
+.fifth div5{
+    font-size: 35px;
+    position: absolute;
+    top: 1600px;
+    left: 720px;
+}
+.fifth div6{
+    font-size: 35px;
+    position: absolute;
+    top: 1590px;
+    left: 960px;
+}
+.fifth div7{
+    font-size: 35px;
+    position: absolute;
+    top: 1590px;
+    left: 1180px;
+}
+
